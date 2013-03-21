@@ -1,6 +1,6 @@
-/* Tumblr AJAX Notes Plugin by Matthew Buchanan v4.0.0
+/* Tumblr Ajax Notes plugin by Matthew Buchanan v1.0g
    Requires jQuery 1.2.6 or higher
-   See http://matthewbuchanan.name/tumblr/ajax-notes/ for installation guide */
+   See https://github.com/matthewbuchanan/tumblr-ajax-notes for installation guide */
 
 ;(function ( $, window, undefined ) {
 

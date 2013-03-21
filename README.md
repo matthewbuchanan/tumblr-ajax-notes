@@ -15,7 +15,7 @@ In the `<head>` of your custom theme, include links to jQuery and the `jquery.tu
 
 ```html
 	<script src="http://code.jquery.com/jquery.js"></script>
-	<script src="js/jquery.tumblr-ajax-notes.js"></script>
+	<script src="https://raw.github.com/matthewbuchanan/tumblr-ajax-notes/master/jquery.tumblr-ajax-notes.js"></script>
 ```
 
 In your custom theme, for every post type, include a Notes link:
@@ -54,13 +54,13 @@ That’s it. [Email me](http://mattbu.ch) if you have feedback or encounter prob
 - Initial Github release.
 
 **1.0**
-- Now a jQuery plugin. ((Jul 7, 2010)[http://matthewbuchanan.name/tumblr/ajax-notes/])
+- Now a jQuery plugin. ([Jul 7, 2010](http://matthewbuchanan.name/tumblr/ajax-notes/))
 
 **0.9**
-- Updated to use new Tumblr custom theme tags for notes. ((Jul 8, 2009)[http://matthewbuchanan.name/137565830/])
+- Updated to use new Tumblr custom theme tags for notes. ([Jul 8, 2009](http://matthewbuchanan.name/137565830/))
 
 **0.8**
-- Initial public release. ((Jan 19, 2009)[http://matthewbuchanan.name/71515023/])
+- Initial public release. ([Jan 19, 2009](http://matthewbuchanan.name/71515023/))
 
 ## License
 
